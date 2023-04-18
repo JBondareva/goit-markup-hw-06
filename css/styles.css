@@ -870,6 +870,9 @@ body {
 }
 
 .modal-form-field {
+  margin-bottom: 8px;
+}
+.modal-form-text-area {
   margin-bottom: 16px;
 }
 
